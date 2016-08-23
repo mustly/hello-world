@@ -1,4 +1,4 @@
-## Instalación de Jekyll
+# Instalación de Jekyll
 This is new project, simple, for test only
 
 # free-for-dev
